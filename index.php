@@ -1,6 +1,7 @@
 <?php
 
 echo "Welcome to OpenShift Online Developer Preview";
+echo "<br>13 Marzo 2020";
 echo "<br>To test the database, hit the dbtest.php URL";
 
 
